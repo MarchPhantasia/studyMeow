@@ -1,5 +1,11 @@
 {
   "cssTheme": "Typora-Vue",
   "theme": "system",
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "苹方-简",
+  "textFontFamily": "苹方-简",
+  "monospaceFontFamily": "Monaco",
+  "enabledCssSnippets": [
+    "1"
+  ]
 }

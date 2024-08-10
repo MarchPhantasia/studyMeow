@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian 语法more/标注.md",
+                "file": "course/24Summer/Attention 机制与 Transformer 模型学习报告.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian 语法more/标注.md",
+                "file": "course/24Summer/Attention 机制与 Transformer 模型学习报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian 语法more/标注.md",
+                "file": "course/24Summer/Attention 机制与 Transformer 模型学习报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian 语法more/标注.md"
+                "file": "course/24Summer/Attention 机制与 Transformer 模型学习报告.md"
               }
             }
           },
@@ -159,6 +159,11 @@
   },
   "active": "fdf27050ad0ce4f8",
   "lastOpenFiles": [
+    "ctf/未命名",
+    "course/24Summer",
+    "course",
+    "obsidian 语法more/标注.md",
+    "course/24Summer/Attention 机制与 Transformer 模型学习报告.md",
     "夢 2024-8-4.md",
     "Latex入门.md",
     "ctf/train2024/lfi/lfi4.md",
@@ -185,15 +190,10 @@
     "ctf/train2024/lfi",
     "ctf/otherWriteup/2023 鹏城杯.md",
     "linux/docker/docker下启动redis.md",
-    "ctf/ctfhub/ctfhub彩蛋.md",
-    "ctf/train2024/reverse_1.md",
     "ctf/otherWriteup",
-    "ctf/未命名.md",
     "ctf/buuoj",
     "ctf/ctfhub",
     "code/sql",
-    "linux/docker",
-    "linux",
-    "ctf.zip"
+    "linux/docker"
   ]
 }
