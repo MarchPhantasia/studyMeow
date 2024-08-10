@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "24741ef228b877ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bef24c46534fd5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf27050ad0ce4f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian 语法more/标注.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8fce5366c0bfe73",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31c9706beca0e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2beafada31bdb266",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b53880aced59f98c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "848067be1d432815",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "a6298101014c0bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "78b70e622a9e535c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5c82823dad10362",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian 语法more/标注.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34f71d7a03a31eb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian 语法more/标注.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e5c9fadec3ed537",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d19501b3ec94fe0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian 语法more/标注.md"
+              }
+            }
+          },
+          {
+            "id": "029584b5130d25ee",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "copilot:Copilot Chat": false
+    }
+  },
+  "active": "fdf27050ad0ce4f8",
+  "lastOpenFiles": [
+    "夢 2024-8-4.md",
+    "Latex入门.md",
+    "ctf/train2024/lfi/lfi4.md",
+    "ctf/ctfhub/web/ctfhub-web-302jumpto.md",
+    "ctf/ctfhub/web/ctf-web-git提交记录&stash.md",
+    "ctf/train2024/lfi/lfi1.md",
+    "ctf/train2024/lfi/lfi2.md",
+    "ctf/article/常用协议php、file、data.md",
+    "ctf/train2024/lfi/lfi3.md",
+    "ctf/tool/dirsearch常用命令.md",
+    "ctf/article/sql注入速查手册.md",
+    "ctf/article/sql语句过滤.md",
+    "ctf/article/Concat和group_concat区别.md",
+    "ctf/ctfhub/web/ctfhub-web-RCE.md",
+    "ctf/ctfshow/re/2JSFuck.md",
+    "ctf/ctfshow/re",
+    "ctf/ctfshow",
+    "ctf/article/cat、空格过滤.md",
+    "ctf/article/SQL 注入.md",
+    "ctf/ctfhub/web/ctf-web-默认口令&弱密码.md",
+    "ctf/ctfhub/web/ctf-web-文件上传.md",
+    "ctf/ctfhub/web/ctf-web-mime.md",
+    "ctf/ctfhub/web/ctf-web-http基础认证.md",
+    "ctf/train2024/lfi",
+    "ctf/otherWriteup/2023 鹏城杯.md",
+    "linux/docker/docker下启动redis.md",
+    "ctf/ctfhub/ctfhub彩蛋.md",
+    "ctf/train2024/reverse_1.md",
+    "ctf/otherWriteup",
+    "ctf/未命名.md",
+    "ctf/buuoj",
+    "ctf/ctfhub",
+    "code/sql",
+    "linux/docker",
+    "linux",
+    "ctf.zip"
+  ]
+}

@@ -1,0 +1,6 @@
+- 首先需要文件头绕过
+- 上传内容中出现 php 代码也会被扫
+- ![image.png](https://raw.githubusercontent.com/MarchPhantasia/pic/main/hexoblog/20240806221619.png)
+- 上传 virus. png 添加 short php 的一句话密码作为图片后缀，并且修改文件名为 virus. php 即可。antsword 连接。
+- 和下图很类似
+- ![image.png](https://raw.githubusercontent.com/MarchPhantasia/pic/main/hexoblog/20240806220849.png)
