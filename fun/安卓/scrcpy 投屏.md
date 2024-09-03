@@ -1,0 +1,5 @@
+- 工具
+	- https://github.com/Genymobile/scrcpy
+- 键盘控制
+	- https://www.wuzao.com/Genymobile/scrcpy/doc/keyboard.md#uhid
+	- https://www.wuzao.com/Genymobile/scrcpy/doc/keyboard.md
