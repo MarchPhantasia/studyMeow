@@ -1,11 +1,9 @@
 {
-  "cssTheme": "Typora-Vue",
-  "theme": "system",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
   "accentColor": "",
   "interfaceFontFamily": "苹方-简",
   "textFontFamily": "苹方-简",
   "monospaceFontFamily": "Monaco",
-  "enabledCssSnippets": [
-    "1"
-  ]
+  "enabledCssSnippets": []
 }
