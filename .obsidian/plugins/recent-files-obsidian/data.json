@@ -1,16 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "readme",
-      "path": "readme.md"
+      "basename": "lfi1",
+      "path": "ctf/train2024/lfi/lfi1.md"
     },
     {
-      "basename": "总结",
-      "path": "fun/寒蝉/总结.md"
+      "basename": "dirsearch常用命令",
+      "path": "ctf/tool/dirsearch常用命令.md"
     },
     {
-      "basename": "路由器代理",
-      "path": "misc/路由器代理.md"
+      "basename": "GitHack",
+      "path": "ctf/tool/GitHack.md"
+    },
+    {
+      "basename": "IDA",
+      "path": "ctf/tool/IDA.md"
+    },
+    {
+      "basename": "nmap常用命令",
+      "path": "ctf/tool/nmap常用命令.md"
+    },
+    {
+      "basename": "2023 鹏城杯",
+      "path": "ctf/otherWriteup/2023 鹏城杯.md"
+    },
+    {
+      "basename": "reverse",
+      "path": "ctf/buuoj/reverse.md"
+    },
+    {
+      "basename": "ctfhub-web-cookie-1",
+      "path": "ctf/ctfhub/web/ctfhub-web-cookie-1.md"
+    },
+    {
+      "basename": "ctfhub-web-phpinf0&dir遍历",
+      "path": "ctf/ctfhub/web/ctfhub-web-phpinf0&dir遍历.md"
+    },
+    {
+      "basename": "Obsidian快捷键",
+      "path": "obsidian/Obsidian快捷键.md"
+    },
+    {
+      "basename": "Thing-Theme",
+      "path": "obsidian/Thing-Theme.md"
+    },
+    {
+      "basename": "关于状态图的一些问题",
+      "path": "Past/course-hit/需求分析与专业导论 1/关于状态图的一些问题.md"
+    },
+    {
+      "basename": "作业1",
+      "path": "Past/course-hit/智能家居/作业1.md"
+    },
+    {
+      "basename": "测试",
+      "path": "Past/course-hit/智能家居/测试.md"
+    },
+    {
+      "basename": "演讲分工",
+      "path": "Past/course-hit/毛概/演讲分工.md"
+    },
+    {
+      "basename": "作业1",
+      "path": "Past/course-hit/需求分析与专业导论 1/作业1.md"
+    },
+    {
+      "basename": "五个关系",
+      "path": "Past/course-hit/需求分析与专业导论 1/五个关系.md"
+    },
+    {
+      "basename": "功能Todo",
+      "path": "Past/course-hit/BlockChain_Competition/功能Todo.md"
+    },
+    {
+      "basename": "比赛文档Demo演示",
+      "path": "Past/course-hit/BlockChain_Competition/比赛文档Demo演示.md"
+    },
+    {
+      "basename": "常用级数",
+      "path": "Past/course-hit/Mathematics/微积分/常用级数.md"
+    },
+    {
+      "basename": "ver5",
+      "path": "Past/国赛/ver5.md"
+    },
+    {
+      "basename": "公式ver.3",
+      "path": "Past/国赛/公式ver.3.md"
+    },
+    {
+      "basename": "公式ver.2",
+      "path": "Past/国赛/公式ver.2.md"
     },
     {
       "basename": "关于 ChatOllama 本地部署和 grop 实现免费的 llama 模型和本地 RAG 知识库搭建",
@@ -21,8 +101,64 @@
       "path": "misc/安卓/scrcpy 投屏.md"
     },
     {
+      "basename": "安卓模拟器使用系统代理",
+      "path": "misc/安卓/安卓模拟器使用系统代理.md"
+    },
+    {
       "basename": "标注",
       "path": "obsidian/标注.md"
+    },
+    {
+      "basename": "公式汇总",
+      "path": "obsidian/公式汇总.md"
+    },
+    {
+      "basename": "FIrefly Theme",
+      "path": "obsidian/FIrefly Theme.md"
+    },
+    {
+      "basename": "markdown语法",
+      "path": "obsidian/markdown语法.md"
+    },
+    {
+      "basename": "Obsidian CSS Config",
+      "path": "obsidian/Obsidian CSS Config.md"
+    },
+    {
+      "basename": "会议记录",
+      "path": "Past/大连实训/会议记录.md"
+    },
+    {
+      "basename": "Latex入门",
+      "path": "tool/LaTeX/Latex入门.md"
+    },
+    {
+      "basename": "总结",
+      "path": "fun/寒蝉/总结.md"
+    },
+    {
+      "basename": "Ch 2 绵流 ！= 目明",
+      "path": "fun/寒蝉/Ch 2 绵流 ！= 目明.md"
+    },
+    {
+      "basename": "anaconda安装",
+      "path": "misc/anaconda安装.md"
+    },
+    {
+      "basename": "1",
+      "path": "pic/1.png"
+    },
+    {
+      "basename": "夢",
+      "path": "夢.md"
+    },
+    {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "路由器代理",
+      "path": "misc/路由器代理.md"
     },
     {
       "basename": "Typora Test",
@@ -35,10 +171,6 @@
     {
       "basename": "mac 终端 zsh 和 bash 切换",
       "path": "misc/mac 终端 zsh 和 bash 切换.md"
-    },
-    {
-      "basename": "anaconda安装",
-      "path": "misc/anaconda安装.md"
     },
     {
       "basename": "Ch 1 鬼隐",
@@ -65,40 +197,8 @@
       "path": "fun/寒蝉/Notation.md"
     },
     {
-      "basename": "Ch 2 绵流 ！= 目明",
-      "path": "fun/寒蝉/Ch 2 绵流 ！= 目明.md"
-    },
-    {
-      "basename": "Obsidian CSS Config",
-      "path": "obsidian/Obsidian CSS Config.md"
-    },
-    {
-      "basename": "Obsidian快捷键",
-      "path": "obsidian/Obsidian快捷键.md"
-    },
-    {
-      "basename": "Thing-Theme",
-      "path": "obsidian/Thing-Theme.md"
-    },
-    {
-      "basename": "公式汇总",
-      "path": "obsidian/公式汇总.md"
-    },
-    {
       "basename": "整体业务流程绘图",
       "path": "Past/大连实训/整体业务流程绘图.md"
-    },
-    {
-      "basename": "ftp",
-      "path": "Past/大连实训/ftp.md"
-    },
-    {
-      "basename": "http状态码设置",
-      "path": "Past/大连实训/http状态码设置.md"
-    },
-    {
-      "basename": "会议记录",
-      "path": "Past/大连实训/会议记录.md"
     }
   ],
   "omittedPaths": []
