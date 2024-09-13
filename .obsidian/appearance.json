@@ -1,9 +1,12 @@
 {
-  "cssTheme": "Blue Topaz",
-  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
   "accentColor": "",
-  "interfaceFontFamily": "苹方-简",
-  "textFontFamily": "苹方-简",
-  "monospaceFontFamily": "Monaco",
-  "enabledCssSnippets": []
+  "interfaceFontFamily": "Monaco,霞鹜文楷等宽,霞鹜文楷,苹方-简",
+  "textFontFamily": "Monaco,霞鹜文楷等宽,霞鹜文楷,苹方-简",
+  "monospaceFontFamily": "Monaco,霞鹜文楷",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "baseFontSize": 16
 }

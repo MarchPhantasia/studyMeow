@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "799bf353530d362d",
+        "id": "c9c244fef7b0bfd0",
         "type": "tabs",
         "children": [
           {
-            "id": "e27636752fc1e428",
+            "id": "04fcb22122ac3e0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/git/git 一些命令.md",
+                "file": "fun/寒蝉/总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ce3bad7f50c13be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,6 +79,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "0b2c042753e75124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cead7453e947dd05",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/git/git 一些命令.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +129,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code/git/git 一些命令.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d19501b3ec94fe0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md"
               }
             }
           },
@@ -120,29 +157,27 @@
             }
           },
           {
-            "id": "d19501b3ec94fe0a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "code/git/git 一些命令.md"
-              }
-            }
-          },
-          {
             "id": "029584b5130d25ee",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "b10c93ec6eb8b7cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
+    "width": 351.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,36 +194,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e27636752fc1e428",
+  "active": "3ce3bad7f50c13be",
   "lastOpenFiles": [
-    "code/git/Git Commit Message Requirement.md",
-    "code/git/Git提交.md",
-    "code/git/git 一些命令.md",
-    "tool/LaTeX/Latex入门.md",
-    "新建文件夹",
+    "fun/寒蝉/总结.md",
+    "readme.md",
+    "misc/路由器代理.md",
+    "misc/关于 ChatOllama 本地部署和 grop 实现免费的 llama 模型和本地 RAG 知识库搭建.md",
+    "misc/安卓/scrcpy 投屏.md",
+    "obsidian/标注.md",
     "misc/Typora Test.md",
-    "Past/course-hit/软件构造/Class/面向 Reuse 的软件构造技术.md",
-    "Past/course-hit/软件构造/Class/设计规约(Specification).md",
-    "Past/course-hit/软件构造/Laboratory/Software Construction Lab1 —— by Phantasia.md",
-    "Past/course-hit/软件构造/Class/设计模式详解.md",
-    "Past/course-hit/软件构造/Class/不可变(immutable)设计原则.md",
-    "Past/course-hit/软件构造/Class/OOP 面向对象.md",
-    "Past/course-hit/软件构造/Class/Equality in OOP and ADT.md",
-    "Past/course-hit/软件构造/Class/ADT.md",
-    "Past/course-hit/数据结构/树/并查集.md",
-    "Past/course-hit/数据结构/查找/查找算法 - 顺序查找.md",
-    "Past/course-hit/数据结构/查找/查找算法 - 折半查找.md",
-    "Past/course-hit/数据结构/查找/查找算法 - 分块查找.md",
-    "Past/course-hit/数据结构/查找/查找的基本概念.md",
-    "Past/course-hit/数据结构/查找/散列查找（下）.md",
-    "Past/course-hit/数据结构/查找/散列查找（上）.md",
-    "Past/course-hit/数据结构/查找/二叉排序树.md",
-    "Past/course-hit/数据结构/查找/平衡二叉树（AVL）.md",
-    "Past/course-hit/数据结构/查找/平衡二叉树 - 删除.md",
-    "Past/course-hit/数据结构/查找/B+ Tree.md",
-    "Past/course-hit/数据结构/查找/B Tree（B-树）.md",
+    "misc/NeteanseMusicAPI探索.md",
+    "misc/mac 终端 zsh 和 bash 切换.md",
+    "misc/anaconda安装.md",
+    "fun/寒蝉/Ch 1 鬼隐.md",
+    "fun/寒蝉/Ch 3 崇杀.md",
+    "fun/寒蝉/Ch 4 瑕溃.md",
+    "fun/寒蝉/Ch 5 目明.md",
+    "fun/寒蝉/Ch 6 罪灭.md",
+    "fun/寒蝉/Notation.md",
+    "fun/寒蝉/Ch 2 绵流 ！= 目明.md",
+    "obsidian/Obsidian CSS Config.md",
+    "[.md",
+    "obsidian/Obsidian快捷键.md",
+    "obsidian/Thing-Theme.md",
+    "obsidian/公式汇总.md",
+    "Past/大连实训/整体业务流程绘图.md",
+    "Past/大连实训/ftp.md",
+    "Past/大连实训/http状态码设置.md",
+    "Past/大连实训/会议记录.md",
+    "pic/1.png",
+    "pic/121836223_p0.png",
+    "pic",
+    "新建文件夹",
     "Past/course-hit/数据结构/图片/Pasted image 20231018010005.png",
-    "Past/course-hit/数据结构/查找/B Tree 的查找和删除.md",
     "Past/course-hit/数据结构/图片/Pasted image 20231018010158.png",
     "Past/course-hit/数据结构/图片/Pasted image 20231018005842.png",
     "Past/course-hit/数据结构/图片/Pasted image 20231018005419.png",
@@ -203,9 +241,6 @@
     "Past/course-hit/数据结构/图片",
     "Past/course-hit/数据结构/图",
     "Past/course-hit/Mathematics/微积分",
-    "Past/course-hit/需求分析与专业导论 1",
-    "Past/course-hit/近世代数",
-    "Past/Past/数据结构/图片/Pasted image 20231018010158.png",
-    "Past/Past/数据结构/图片/Pasted image 20231018010005.png"
+    "Past/course-hit/需求分析与专业导论 1"
   ]
 }

@@ -1,7 +1,7 @@
 #hexo #blog
 ## 安装 Hexo Cli
 
-```
+``` shell
 npm i -g hexo-cli
 ```
 ## 如果是 mac or linux 
@@ -12,7 +12,7 @@ echo 'PATH="$PATH:./node_modules/.bin"' >> ~/.profile
 ## 如果是 windows 
 > 执行 hexo 命令时应当添加前缀
 
-```
+``` shell
 npx hexo -v
 npx hexo cl
 npx hexo init
@@ -21,12 +21,12 @@ npx hexo s
 ```
 
 ## 验证安装
-```
+``` shell
 hexo -v
 ```
 
 ## 指定目录（空目录）
-```
+``` shell
 hexo init
 ```
 > 得到下面的目录
