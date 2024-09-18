@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "lfi1",
-      "path": "ctf/train2024/lfi/lfi1.md"
+      "basename": "其他同学的论文分享注重点",
+      "path": "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md"
+    },
+    {
+      "basename": "Nearest Neighbor Classifier",
+      "path": "course/eecs498/1/Nearest Neighbor Classifier.md"
+    },
+    {
+      "basename": "1_image_classification",
+      "path": "course/eecs498/1_image_classification.md"
+    },
+    {
+      "basename": "ver5",
+      "path": "Past/国赛/ver5.md"
+    },
+    {
+      "basename": "ます和します的区别",
+      "path": "language/日本語/ます和します的区别.md"
+    },
+    {
+      "basename": "路由器代理",
+      "path": "misc/路由器代理.md"
+    },
+    {
+      "basename": "black formatter plugin",
+      "path": "tool/python/black formatter plugin.md"
+    },
+    {
+      "basename": "夢",
+      "path": "夢.md"
+    },
+    {
+      "basename": "readme",
+      "path": "readme.md"
     },
     {
       "basename": "dirsearch常用命令",
       "path": "ctf/tool/dirsearch常用命令.md"
+    },
+    {
+      "basename": "lfi1",
+      "path": "ctf/train2024/lfi/lfi1.md"
     },
     {
       "basename": "GitHack",
@@ -81,10 +117,6 @@
       "path": "Past/course-hit/Mathematics/微积分/常用级数.md"
     },
     {
-      "basename": "ver5",
-      "path": "Past/国赛/ver5.md"
-    },
-    {
       "basename": "公式ver.3",
       "path": "Past/国赛/公式ver.3.md"
     },
@@ -149,18 +181,6 @@
       "path": "pic/1.png"
     },
     {
-      "basename": "夢",
-      "path": "夢.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
-    },
-    {
-      "basename": "路由器代理",
-      "path": "misc/路由器代理.md"
-    },
-    {
       "basename": "Typora Test",
       "path": "misc/Typora Test.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Ch 3 崇杀",
       "path": "fun/寒蝉/Ch 3 崇杀.md"
-    },
-    {
-      "basename": "Ch 4 瑕溃",
-      "path": "fun/寒蝉/Ch 4 瑕溃.md"
-    },
-    {
-      "basename": "Ch 5 目明",
-      "path": "fun/寒蝉/Ch 5 目明.md"
-    },
-    {
-      "basename": "Ch 6 罪灭",
-      "path": "fun/寒蝉/Ch 6 罪灭.md"
-    },
-    {
-      "basename": "Notation",
-      "path": "fun/寒蝉/Notation.md"
-    },
-    {
-      "basename": "整体业务流程绘图",
-      "path": "Past/大连实训/整体业务流程绘图.md"
     }
   ],
   "omittedPaths": []
