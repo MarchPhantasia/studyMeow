@@ -2,7 +2,6 @@
   "table-editor-obsidian",
   "better-word-count",
   "obsidian42-brat",
-  "copilot",
   "floating-toc",
   "obsidian-style-settings",
   "quick-latex",
@@ -19,5 +18,8 @@
   "settings-search",
   "background-image",
   "recent-files-obsidian",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-tasks-plugin",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin"
 ]

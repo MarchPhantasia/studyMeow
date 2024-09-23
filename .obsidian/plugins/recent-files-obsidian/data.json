@@ -1,6 +1,146 @@
 {
   "recentFiles": [
     {
+      "basename": "git 一些命令",
+      "path": "code/git/git 一些命令.md"
+    },
+    {
+      "basename": "Git Commit Message Requirement",
+      "path": "code/git/Git Commit Message Requirement.md"
+    },
+    {
+      "basename": "Mybatis模板",
+      "path": "code/Mybatis模板.md"
+    },
+    {
+      "basename": "Chapter 1 软件架构与中间件的内涵及要点",
+      "path": "course/24Fall/Software architecture and middleware/Chapter 1 软件架构与中间件的内涵及要点.md"
+    },
+    {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "fortest",
+      "path": "fortest.md"
+    },
+    {
+      "basename": "🐔大创",
+      "path": "🐔大创.md"
+    },
+    {
+      "basename": "Selenium Intro",
+      "path": "code/Crawler/Selenium/Selenium Intro.md"
+    },
+    {
+      "basename": "浏览器搜索magic",
+      "path": "misc/浏览器搜索magic.md"
+    },
+    {
+      "basename": "Ch 5 目明",
+      "path": "fun/寒蝉/Ch 5 目明.md"
+    },
+    {
+      "basename": "Ch 4 瑕溃",
+      "path": "fun/寒蝉/Ch 4 瑕溃.md"
+    },
+    {
+      "basename": "Ch 3 崇杀",
+      "path": "fun/寒蝉/Ch 3 崇杀.md"
+    },
+    {
+      "basename": "Ch 2 绵流 ！= 目明",
+      "path": "fun/寒蝉/Ch 2 绵流 ！= 目明.md"
+    },
+    {
+      "basename": "Ch 1 鬼隐",
+      "path": "fun/寒蝉/Ch 1 鬼隐.md"
+    },
+    {
+      "basename": "ます和します的区别",
+      "path": "language/日本語/ます和します的区别.md"
+    },
+    {
+      "basename": "Typora Test",
+      "path": "misc/Typora Test.md"
+    },
+    {
+      "basename": "NeteanseMusicAPI探索",
+      "path": "misc/NeteanseMusicAPI探索.md"
+    },
+    {
+      "basename": "anaconda安装",
+      "path": "misc/anaconda安装.md"
+    },
+    {
+      "basename": "关于 ChatOllama 本地部署和 grop 实现免费的 llama 模型和本地 RAG 知识库搭建",
+      "path": "misc/关于 ChatOllama 本地部署和 grop 实现免费的 llama 模型和本地 RAG 知识库搭建.md"
+    },
+    {
+      "basename": "路由器代理",
+      "path": "misc/路由器代理.md"
+    },
+    {
+      "basename": "mac 终端 zsh 和 bash 切换",
+      "path": "misc/mac 终端 zsh 和 bash 切换.md"
+    },
+    {
+      "basename": "Homework TODO",
+      "path": "TODO/Homework TODO/Homework TODO.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO/TODO.md"
+    },
+    {
+      "basename": "meetings",
+      "path": "self/projects/Intelli MBSE/meetings.md"
+    },
+    {
+      "basename": "Obsidian快捷键",
+      "path": "obsidian/Obsidian快捷键.md"
+    },
+    {
+      "basename": "夢",
+      "path": "夢.md"
+    },
+    {
+      "basename": "Drawing 2024-09-18 16.33.43.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-18 16.33.43.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-18 17.45.11.excalidraw",
+      "path": "Excalidraw/Drawing 2024-09-18 17.45.11.excalidraw.md"
+    },
+    {
+      "basename": "FIrefly Theme",
+      "path": "obsidian/FIrefly Theme.md"
+    },
+    {
+      "basename": "Obsidian 背景Deprecated",
+      "path": "obsidian/Obsidian 背景Deprecated.md"
+    },
+    {
+      "basename": "markdown语法",
+      "path": "obsidian/markdown语法.md"
+    },
+    {
+      "basename": "公式汇总",
+      "path": "obsidian/公式汇总.md"
+    },
+    {
+      "basename": "标注",
+      "path": "obsidian/标注.md"
+    },
+    {
+      "basename": "2.滑动窗口【单调队列】",
+      "path": "code/Algorithm/单调栈和单调队列/2.滑动窗口【单调队列】.md"
+    },
+    {
+      "basename": "1.单调栈【模板】",
+      "path": "code/Algorithm/单调栈和单调队列/1.单调栈【模板】.md"
+    },
+    {
       "basename": "其他同学的论文分享注重点",
       "path": "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md"
     },
@@ -17,24 +157,8 @@
       "path": "Past/国赛/ver5.md"
     },
     {
-      "basename": "ます和します的区别",
-      "path": "language/日本語/ます和します的区别.md"
-    },
-    {
-      "basename": "路由器代理",
-      "path": "misc/路由器代理.md"
-    },
-    {
       "basename": "black formatter plugin",
       "path": "tool/python/black formatter plugin.md"
-    },
-    {
-      "basename": "夢",
-      "path": "夢.md"
-    },
-    {
-      "basename": "readme",
-      "path": "readme.md"
     },
     {
       "basename": "dirsearch常用命令",
@@ -73,132 +197,8 @@
       "path": "ctf/ctfhub/web/ctfhub-web-phpinf0&dir遍历.md"
     },
     {
-      "basename": "Obsidian快捷键",
-      "path": "obsidian/Obsidian快捷键.md"
-    },
-    {
       "basename": "Thing-Theme",
       "path": "obsidian/Thing-Theme.md"
-    },
-    {
-      "basename": "关于状态图的一些问题",
-      "path": "Past/course-hit/需求分析与专业导论 1/关于状态图的一些问题.md"
-    },
-    {
-      "basename": "作业1",
-      "path": "Past/course-hit/智能家居/作业1.md"
-    },
-    {
-      "basename": "测试",
-      "path": "Past/course-hit/智能家居/测试.md"
-    },
-    {
-      "basename": "演讲分工",
-      "path": "Past/course-hit/毛概/演讲分工.md"
-    },
-    {
-      "basename": "作业1",
-      "path": "Past/course-hit/需求分析与专业导论 1/作业1.md"
-    },
-    {
-      "basename": "五个关系",
-      "path": "Past/course-hit/需求分析与专业导论 1/五个关系.md"
-    },
-    {
-      "basename": "功能Todo",
-      "path": "Past/course-hit/BlockChain_Competition/功能Todo.md"
-    },
-    {
-      "basename": "比赛文档Demo演示",
-      "path": "Past/course-hit/BlockChain_Competition/比赛文档Demo演示.md"
-    },
-    {
-      "basename": "常用级数",
-      "path": "Past/course-hit/Mathematics/微积分/常用级数.md"
-    },
-    {
-      "basename": "公式ver.3",
-      "path": "Past/国赛/公式ver.3.md"
-    },
-    {
-      "basename": "公式ver.2",
-      "path": "Past/国赛/公式ver.2.md"
-    },
-    {
-      "basename": "关于 ChatOllama 本地部署和 grop 实现免费的 llama 模型和本地 RAG 知识库搭建",
-      "path": "misc/关于 ChatOllama 本地部署和 grop 实现免费的 llama 模型和本地 RAG 知识库搭建.md"
-    },
-    {
-      "basename": "scrcpy 投屏",
-      "path": "misc/安卓/scrcpy 投屏.md"
-    },
-    {
-      "basename": "安卓模拟器使用系统代理",
-      "path": "misc/安卓/安卓模拟器使用系统代理.md"
-    },
-    {
-      "basename": "标注",
-      "path": "obsidian/标注.md"
-    },
-    {
-      "basename": "公式汇总",
-      "path": "obsidian/公式汇总.md"
-    },
-    {
-      "basename": "FIrefly Theme",
-      "path": "obsidian/FIrefly Theme.md"
-    },
-    {
-      "basename": "markdown语法",
-      "path": "obsidian/markdown语法.md"
-    },
-    {
-      "basename": "Obsidian CSS Config",
-      "path": "obsidian/Obsidian CSS Config.md"
-    },
-    {
-      "basename": "会议记录",
-      "path": "Past/大连实训/会议记录.md"
-    },
-    {
-      "basename": "Latex入门",
-      "path": "tool/LaTeX/Latex入门.md"
-    },
-    {
-      "basename": "总结",
-      "path": "fun/寒蝉/总结.md"
-    },
-    {
-      "basename": "Ch 2 绵流 ！= 目明",
-      "path": "fun/寒蝉/Ch 2 绵流 ！= 目明.md"
-    },
-    {
-      "basename": "anaconda安装",
-      "path": "misc/anaconda安装.md"
-    },
-    {
-      "basename": "1",
-      "path": "pic/1.png"
-    },
-    {
-      "basename": "Typora Test",
-      "path": "misc/Typora Test.md"
-    },
-    {
-      "basename": "NeteanseMusicAPI探索",
-      "path": "misc/NeteanseMusicAPI探索.md"
-    },
-    {
-      "basename": "mac 终端 zsh 和 bash 切换",
-      "path": "misc/mac 终端 zsh 和 bash 切换.md"
-    },
-    {
-      "basename": "Ch 1 鬼隐",
-      "path": "fun/寒蝉/Ch 1 鬼隐.md"
-    },
-    {
-      "basename": "Ch 3 崇杀",
-      "path": "fun/寒蝉/Ch 3 崇杀.md"
     }
   ],
   "omittedPaths": []

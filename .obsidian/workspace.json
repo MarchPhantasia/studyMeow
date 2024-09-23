@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89f1507a6db7e674",
+        "id": "f4cb1e1bedd0984a",
         "type": "tabs",
         "children": [
           {
-            "id": "f487e1a28362c713",
+            "id": "794405a693f23428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md",
+                "file": "code/git/git 一些命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md",
+                "file": "code/git/git 一些命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md",
+                "file": "code/git/git 一些命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md"
+                "file": "code/git/git 一些命令.md"
               }
             }
           },
@@ -146,23 +146,23 @@
             }
           },
           {
-            "id": "029584b5130d25ee",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "b10c93ec6eb8b7cc",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "899ee1d3047e91f6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,57 +179,59 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "copilot:Copilot Chat": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f487e1a28362c713",
+  "active": "794405a693f23428",
   "lastOpenFiles": [
-    "course/eecs498/1/Nearest Neighbor Classifier.md",
-    "course/eecs498/1_image_classification.md",
-    "Past/国赛/ver5.md",
-    "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md",
-    "language/日本語/ます和します的区别.md",
-    "course/24Fall/intelliSoftwareEngineering",
-    "course/24Fall",
-    "misc/路由器代理.md",
-    "tool/python/black formatter plugin.md",
-    "language/日本語",
-    "language",
-    "tool/未命名.md",
-    "tool/python",
-    "夢.md",
+    "code/git/Git Commit Message Requirement.md",
+    "code/git/git 一些命令.md",
+    "code/Mybatis模板.md",
+    "course/24Fall/Software architecture and middleware/Chapter 1 软件架构与中间件的内涵及要点.md",
     "readme.md",
-    "ctf/tool/dirsearch常用命令.md",
-    "ctf/train2024/lfi/lfi1.md",
-    "ctf/tool/GitHack.md",
-    "ctf/tool/IDA.md",
-    "ctf/tool/nmap常用命令.md",
-    "ctf/otherWriteup/2023 鹏城杯.md",
-    "ctf/buuoj/reverse.md",
-    "ctf/ctfhub/web/ctfhub-web-cookie-1.md",
-    "ctf/ctfhub/web/ctfhub-web-phpinf0&dir遍历.md",
+    "fortest.md",
+    "🐔大创.md",
+    "code/Crawler/Selenium/Selenium Intro.md",
+    "未命名看板.md",
+    "misc/浏览器搜索magic.md",
+    "code/Crawler/Selenium",
+    "code/Crawler",
+    "fun/寒蝉/Ch 5 目明.md",
+    "fun/寒蝉/Ch 4 瑕溃.md",
+    "fun/寒蝉/Ch 3 崇杀.md",
+    "fun/寒蝉/Ch 2 绵流 ！= 目明.md",
+    "fun/寒蝉/Ch 1 鬼隐.md",
+    "language/日本語/ます和します的区别.md",
+    "misc/Typora Test.md",
+    "misc/NeteanseMusicAPI探索.md",
+    "misc/anaconda安装.md",
+    "misc/关于 ChatOllama 本地部署和 grop 实现免费的 llama 模型和本地 RAG 知识库搭建.md",
+    "misc/路由器代理.md",
+    "misc/mac 终端 zsh 和 bash 切换.md",
+    "TODO/Homework TODO/Homework TODO.md",
+    "TODO/TODO.md",
+    "TODO/Homework TODO",
+    "TODO",
+    "course/24Fall/Software architecture and middleware/homework_1/类图.svg",
+    "course/24Fall/Software architecture and middleware/homework_1/用例图completed.mdj",
+    "course/24Fall/Software architecture and middleware/homework_1/构件图.mdj",
+    "course/24Fall/Software architecture and middleware/homework_1/包图.mdj",
+    "course/24Fall/Software architecture and middleware/homework_1/部署图.mdj",
+    "course/24Fall/Software architecture and middleware/homework_1/时序图-提交申请.mdj",
+    "course/24Fall/Software architecture and middleware/homework_1",
+    "self/projects/Intelli MBSE/meetings.md",
     "obsidian/Obsidian快捷键.md",
-    "obsidian/Thing-Theme.md",
-    "Past/course-hit/需求分析与专业导论 1/关于状态图的一些问题.md",
-    "Past/course-hit/智能家居/作业1.md",
-    "Past/course-hit/智能家居/测试.md",
-    "Past/course-hit/毛概/演讲分工.md",
-    "Past/course-hit/需求分析与专业导论 1/作业1.md",
+    "Excalidraw/未命名.canvas",
     "pic/1.png",
     "pic/121836223_p0.png",
-    "pic",
-    "新建文件夹",
     "Past/course-hit/数据结构/图片/Pasted image 20231018010005.png",
     "Past/course-hit/数据结构/图片/Pasted image 20231018010158.png",
     "Past/course-hit/数据结构/图片/Pasted image 20231018005842.png",
     "Past/course-hit/数据结构/图片/Pasted image 20231018005419.png",
     "Past/course-hit/数据结构/图片/Pasted image 20231018004337.png",
     "Past/course-hit/数据结构/图片/Pasted image 20231018004314.png",
-    "Past/course-hit/数据结构/图片/Pasted image 20231018004022.png",
-    "Past/course-hit/数据结构/图片/Pasted image 20231018003849.png",
-    "Past/course-hit/软件构造/Laboratory",
-    "Past/course-hit/软件构造/Class",
-    "Past/course-hit/数据结构/树"
+    "Past/course-hit/数据结构/图片/Pasted image 20231018004022.png"
   ]
 }
