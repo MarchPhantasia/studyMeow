@@ -21,5 +21,7 @@
   "highlightr-plugin",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "better-export-pdf",
+  "obsidian-git"
 ]

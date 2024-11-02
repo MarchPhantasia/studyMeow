@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "report",
+      "path": "course/24Fall/os/read03/report.md"
+    },
+    {
+      "basename": "readme",
+      "path": "course/24Fall/os/readme.md"
+    },
+    {
+      "basename": "report",
+      "path": "course/24Fall/os/read02/report.md"
+    },
+    {
+      "basename": "蔡志宇-2022112831-读书笔记2",
+      "path": "course/24Fall/os/read02/蔡志宇-2022112831-读书笔记2.pdf"
+    },
+    {
+      "basename": "reports",
+      "path": "course/24Fall/os/read01/reports.pdf"
+    },
+    {
+      "basename": "reports",
+      "path": "course/24Fall/os/read01/reports.md"
+    },
+    {
+      "basename": "2024-10-22",
+      "path": "self/projects/Intelli MBSE/meetings/2024-10-22.md"
+    },
+    {
+      "basename": "iptables",
+      "path": "misc/计网/iptables.md"
+    },
+    {
       "basename": "git 一些命令",
       "path": "code/git/git 一些命令.md"
+    },
+    {
+      "basename": "OSLC",
+      "path": "self/projects/Intelli MBSE/save/OSLC.md"
+    },
+    {
+      "basename": "Git提交",
+      "path": "code/git/Git提交.md"
+    },
+    {
+      "basename": "Pasted image 20241019173231",
+      "path": "course/24Fall/os/read01/images/Pasted image 20241019173231.png"
+    },
+    {
+      "basename": "EX2",
+      "path": "course/24Fall/Software architecture and middleware/EX2.md"
+    },
+    {
+      "basename": "wsl桥接网络",
+      "path": "misc/计网/wsl桥接网络.md"
+    },
+    {
+      "basename": "docker bridge模式",
+      "path": "code/docker/docker bridge模式.md"
+    },
+    {
+      "basename": "git加速镜像",
+      "path": "code/git/git加速镜像.md"
     },
     {
       "basename": "Git Commit Message Requirement",
       "path": "code/git/Git Commit Message Requirement.md"
     },
     {
-      "basename": "Mybatis模板",
-      "path": "code/Mybatis模板.md"
+      "basename": "2024-10-16",
+      "path": "self/projects/Intelli MBSE/meetings/2024-10-16.md"
     },
     {
-      "basename": "Chapter 1 软件架构与中间件的内涵及要点",
-      "path": "course/24Fall/Software architecture and middleware/Chapter 1 软件架构与中间件的内涵及要点.md"
+      "basename": "1.strlen",
+      "path": "code/Coding/c/1.strlen.md"
     },
     {
-      "basename": "readme",
-      "path": "readme.md"
+      "basename": "Pasted image 20241019185028",
+      "path": "course/24Fall/os/read01/images/Pasted image 20241019185028.png"
     },
     {
-      "basename": "fortest",
-      "path": "fortest.md"
+      "basename": "Pasted image 20241019183257",
+      "path": "course/24Fall/os/read01/images/Pasted image 20241019183257.png"
     },
     {
-      "basename": "🐔大创",
-      "path": "🐔大创.md"
+      "basename": "Pasted image 20241019173652",
+      "path": "course/24Fall/os/read01/images/Pasted image 20241019173652.png"
     },
     {
-      "basename": "Selenium Intro",
-      "path": "code/Crawler/Selenium/Selenium Intro.md"
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
     },
     {
-      "basename": "浏览器搜索magic",
-      "path": "misc/浏览器搜索magic.md"
+      "basename": "1.Prefix前缀和【模板】",
+      "path": "code/Algorithm/前缀和与拆分/1.Prefix前缀和【模板】.md"
     },
     {
-      "basename": "Ch 5 目明",
-      "path": "fun/寒蝉/Ch 5 目明.md"
+      "basename": "Pasted image 20241019164539",
+      "path": "course/24Fall/os/images/Pasted image 20241019164539.png"
     },
     {
-      "basename": "Ch 4 瑕溃",
-      "path": "fun/寒蝉/Ch 4 瑕溃.md"
+      "basename": "未命名",
+      "path": "self/compe/未命名.md"
     },
     {
-      "basename": "Ch 3 崇杀",
-      "path": "fun/寒蝉/Ch 3 崇杀.md"
+      "basename": "sscanf_s和sprintf_s函数的使用",
+      "path": "code/Coding/c++/sscanf_s和sprintf_s函数的使用.md"
     },
     {
-      "basename": "Ch 2 绵流 ！= 目明",
-      "path": "fun/寒蝉/Ch 2 绵流 ！= 目明.md"
+      "basename": "Ex2",
+      "path": "course/24Fall/computerNetwork/Ex2.md"
     },
     {
-      "basename": "Ch 1 鬼隐",
-      "path": "fun/寒蝉/Ch 1 鬼隐.md"
+      "basename": "Experiment 1",
+      "path": "course/24Fall/computerNetwork/Experiment 1.md"
     },
     {
-      "basename": "ます和します的区别",
-      "path": "language/日本語/ます和します的区别.md"
+      "basename": "present",
+      "path": "course/24Fall/intelliSoftwareEngineering/present.md"
     },
     {
-      "basename": "Typora Test",
-      "path": "misc/Typora Test.md"
+      "basename": "presentation",
+      "path": "course/24Fall/intelliSoftwareEngineering/presentation.md"
     },
     {
-      "basename": "NeteanseMusicAPI探索",
-      "path": "misc/NeteanseMusicAPI探索.md"
+      "basename": "Paper2",
+      "path": "self/compe/信安作品赛/Paper2.md"
     },
     {
-      "basename": "anaconda安装",
-      "path": "misc/anaconda安装.md"
-    },
-    {
-      "basename": "关于 ChatOllama 本地部署和 grop 实现免费的 llama 模型和本地 RAG 知识库搭建",
-      "path": "misc/关于 ChatOllama 本地部署和 grop 实现免费的 llama 模型和本地 RAG 知识库搭建.md"
-    },
-    {
-      "basename": "路由器代理",
-      "path": "misc/路由器代理.md"
-    },
-    {
-      "basename": "mac 终端 zsh 和 bash 切换",
-      "path": "misc/mac 终端 zsh 和 bash 切换.md"
-    },
-    {
-      "basename": "Homework TODO",
-      "path": "TODO/Homework TODO/Homework TODO.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO/TODO.md"
-    },
-    {
-      "basename": "meetings",
-      "path": "self/projects/Intelli MBSE/meetings.md"
-    },
-    {
-      "basename": "Obsidian快捷键",
-      "path": "obsidian/Obsidian快捷键.md"
-    },
-    {
-      "basename": "夢",
-      "path": "夢.md"
-    },
-    {
-      "basename": "Drawing 2024-09-18 16.33.43.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-18 16.33.43.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-09-18 17.45.11.excalidraw",
-      "path": "Excalidraw/Drawing 2024-09-18 17.45.11.excalidraw.md"
-    },
-    {
-      "basename": "FIrefly Theme",
-      "path": "obsidian/FIrefly Theme.md"
-    },
-    {
-      "basename": "Obsidian 背景Deprecated",
-      "path": "obsidian/Obsidian 背景Deprecated.md"
-    },
-    {
-      "basename": "markdown语法",
-      "path": "obsidian/markdown语法.md"
-    },
-    {
-      "basename": "公式汇总",
-      "path": "obsidian/公式汇总.md"
-    },
-    {
-      "basename": "标注",
-      "path": "obsidian/标注.md"
-    },
-    {
-      "basename": "2.滑动窗口【单调队列】",
-      "path": "code/Algorithm/单调栈和单调队列/2.滑动窗口【单调队列】.md"
-    },
-    {
-      "basename": "1.单调栈【模板】",
-      "path": "code/Algorithm/单调栈和单调队列/1.单调栈【模板】.md"
+      "basename": "Paper1",
+      "path": "self/compe/信安作品赛/Paper1.md"
     },
     {
       "basename": "其他同学的论文分享注重点",
       "path": "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md"
     },
     {
-      "basename": "Nearest Neighbor Classifier",
-      "path": "course/eecs498/1/Nearest Neighbor Classifier.md"
+      "basename": "使用 ollama 框架部署 llama 模型",
+      "path": "misc/LLM/使用 ollama 框架部署 llama 模型.md"
     },
     {
-      "basename": "1_image_classification",
-      "path": "course/eecs498/1_image_classification.md"
-    },
-    {
-      "basename": "ver5",
-      "path": "Past/国赛/ver5.md"
+      "basename": "2024-10-9",
+      "path": "self/projects/Intelli MBSE/meetings/2024-10-9.md"
     },
     {
       "basename": "black formatter plugin",
       "path": "tool/python/black formatter plugin.md"
     },
     {
-      "basename": "dirsearch常用命令",
-      "path": "ctf/tool/dirsearch常用命令.md"
+      "basename": "未命名",
+      "path": "未命名.md"
     },
     {
-      "basename": "lfi1",
-      "path": "ctf/train2024/lfi/lfi1.md"
+      "basename": "EX1",
+      "path": "course/24Fall/Software architecture and middleware/EX1.md"
     },
     {
-      "basename": "GitHack",
-      "path": "ctf/tool/GitHack.md"
+      "basename": "に和へ在表示行为上的区别",
+      "path": "language/日本語/に和へ在表示行为上的区别.md"
     },
     {
-      "basename": "IDA",
-      "path": "ctf/tool/IDA.md"
+      "basename": "表示存在连接词は、に、が",
+      "path": "language/日本語/表示存在连接词は、に、が.md"
     },
     {
-      "basename": "nmap常用命令",
-      "path": "ctf/tool/nmap常用命令.md"
+      "basename": "查看连接过的wifi密码",
+      "path": "misc/windows/查看连接过的wifi密码.md"
     },
     {
-      "basename": "2023 鹏城杯",
-      "path": "ctf/otherWriteup/2023 鹏城杯.md"
+      "basename": "查询本机ipv6",
+      "path": "misc/远控/查询本机ipv6.md"
     },
     {
-      "basename": "reverse",
-      "path": "ctf/buuoj/reverse.md"
+      "basename": "路由器代理",
+      "path": "misc/路由器代理.md"
     },
     {
-      "basename": "ctfhub-web-cookie-1",
-      "path": "ctf/ctfhub/web/ctfhub-web-cookie-1.md"
+      "basename": "浏览器搜索magic",
+      "path": "misc/浏览器搜索magic.md"
     },
     {
-      "basename": "ctfhub-web-phpinf0&dir遍历",
-      "path": "ctf/ctfhub/web/ctfhub-web-phpinf0&dir遍历.md"
+      "basename": "NeteanseMusicAPI探索",
+      "path": "misc/NeteanseMusicAPI探索.md"
     },
     {
-      "basename": "Thing-Theme",
-      "path": "obsidian/Thing-Theme.md"
+      "basename": "问题",
+      "path": "Past/大连实训/问题.md"
+    },
+    {
+      "basename": "整体业务流程绘图",
+      "path": "Past/大连实训/整体业务流程绘图.md"
+    },
+    {
+      "basename": "ftp",
+      "path": "Past/大连实训/ftp.md"
+    },
+    {
+      "basename": "http状态码设置",
+      "path": "Past/大连实训/http状态码设置.md"
     }
   ],
   "omittedPaths": []

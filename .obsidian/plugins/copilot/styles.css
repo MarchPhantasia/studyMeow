@@ -210,9 +210,16 @@ If your plugin does not need CSS, delete this file.
   flex-shrink: 0;
 }
 
-.message-content {
+.message-content-wrapper {
+  display: flex;
+  flex-direction: column;
   flex-grow: 1;
-  max-width: 95%;
+  max-width: 100%;
+}
+
+.message-content {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
   word-break: break-word;
   line-height: 1.6 !important;
 }
@@ -286,8 +293,17 @@ If your plugin does not need CSS, delete this file.
 }
 
 .message-buttons-wrapper {
-  align-self: flex-end;
-  margin-top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4px;
+}
+
+.message-timestamp {
+  font-size: 0.7em;
+  color: var(--text-faint, #bbb);
+  opacity: 0.7;
+  font-style: italic;
 }
 
 .chat-message-buttons {
@@ -295,6 +311,7 @@ If your plugin does not need CSS, delete this file.
   gap: 4px;
   align-items: center;
   height: 24px;
+  margin-left: auto;
 }
 
 .chat-message-buttons button {
@@ -468,4 +485,23 @@ If your plugin does not need CSS, delete this file.
 .edit-textarea:focus {
   outline: none;
   box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+}
+
+.copilot-notice-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.copilot-notice-message {
+  margin-bottom: 16px;
+}
+
+.copilot-notice-container button {
+  align-self: flex-end;
+  margin-top: 16px;
+  margin-left: auto;
 }
