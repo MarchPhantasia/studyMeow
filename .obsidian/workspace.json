@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2e941d470b0e9fa6",
+        "id": "97d18271bfdcc500",
         "type": "tabs",
         "children": [
           {
-            "id": "a58a28fa730b6321",
+            "id": "8c5c50e300e17833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course/24Fall/os/read03/report.md",
+                "file": "course/24Fall/os/lab/1. 调试分析 Linux 0.00 引导程序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "report"
+              "title": "1. 调试分析 Linux 0.00 引导程序"
+            }
+          },
+          {
+            "id": "57bb28962df47a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code/git/Git Commit Message Requirement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Commit Message Requirement"
             }
           }
         ]
@@ -192,13 +206,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "77a9140a2747e7ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 487
+    "width": 384
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,58 +233,58 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kanban:创建新看板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a58a28fa730b6321",
+  "active": "98311577e0cae73a",
   "lastOpenFiles": [
+    "code/git/Git Commit Message Requirement.md",
+    "course/24Fall/os/lab/1. 调试分析 Linux 0.00 引导程序.md",
     "course/24Fall/os/readme.md",
-    "course/24Fall/os/read02/report.md",
-    "course/24Fall/os/read03/report.md",
-    "course/24Fall/os/read02/蔡志宇-2022112831-读书笔记2.pdf",
-    "course/24Fall/os/read03",
-    "course/24Fall/os/read01/reports.pdf",
-    "course/24Fall/os/read01/reports.md",
+    "course/24Fall/os/lab",
+    "self/projects/Intelli MBSE/reference/plainuml探索指南.md",
+    "course/24Fall/os/reading",
+    "2024-11-01.md",
+    "未命名 1.md",
+    "未命名.md",
+    "self/me.md",
+    "self/projects/Intelli MBSE/未命名.md",
+    "self/projects/Intelli MBSE/reference",
+    "code/git/git加速镜像.md",
+    "code/git/Git提交.md",
+    "code/linux/ubuntu 速查.md",
+    "misc/远控/SSH速速.md",
+    "misc/远控/查询本机ipv6.md",
+    "course/24Fall/os/reading/read04/4. 任务管理.md",
+    "course/24Fall/os/2022112831-蔡志宇-读书笔记04.zip",
+    "course/24Fall/os/2022112831-蔡志宇-读书笔记04/4. 任务管理.md",
+    "course/24Fall/os/2022112831-蔡志宇-读书笔记04/2022112831-蔡志宇-读书笔记04.pdf",
+    "course/24Fall/os/2022112831-蔡志宇-读书笔记04",
+    "course/24Fall/os/read04 - 副本/4. 任务管理.md",
+    "course/24Fall/os/read04 - 副本/2022112831-蔡志宇-读书笔记04.pdf",
+    "course/24Fall/os/read04 - 副本",
+    "course/24Fall/os/reading/read04/2022112831-蔡志宇-读书笔记04.pdf",
+    "course/24Fall/os/read04/4. 任务管理.pdf",
+    "course/24Fall/intelliSoftwareEngineering/present.md",
+    "course/24Fall/intelliSoftwareEngineering/presentation.md",
+    "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md",
+    "course/24Fall/os/reading/read03/3. 中断和异常处理.md",
+    "course/24Fall/os/reading/read02/2. 保护模式内存管理.md",
+    "course/24Fall/os/reading/read01/1. x86 系统架构概览.md",
     "self/projects/Intelli MBSE/meetings/2024-10-22.md",
     "misc/计网/iptables.md",
     "code/git/git 一些命令.md",
-    "self/projects/Intelli MBSE/save/OSLC.md",
-    "code/git/Git提交.md",
-    "course/24Fall/os/蔡志宇-2022112831-读书笔记2.zip",
-    "course/24Fall/os/蔡志宇-2022112831-读书笔记2/蔡志宇-2022112831-读书笔记2.pdf",
-    "course/24Fall/os/蔡志宇-2022112831-读书笔记2/report.md",
-    "course/24Fall/os/蔡志宇-2022112831-读书笔记2",
-    "course/24Fall/os/read02 - 副本/蔡志宇-2022112831-读书笔记2.pdf",
-    "course/24Fall/os/read02 - 副本/report.md",
-    "course/24Fall/os/read02 - 副本",
-    "course/24Fall/os/read02/report.pdf",
-    "course/24Fall/os/read02",
-    "course/24Fall/os/read01/images/Pasted image 20241019173231.png",
-    "course/24Fall/Software architecture and middleware/EX2.md",
-    "misc/计网/wsl桥接网络.md",
-    "code/docker/docker bridge模式.md",
-    "code/git/git加速镜像.md",
-    "code/git/Git Commit Message Requirement.md",
-    "self/projects/Intelli MBSE/meetings/2024-10-16.md",
-    "code/Coding/c/1.strlen.md",
-    "course/24Fall/os/read01/images/Pasted image 20241019185028.png",
-    "course/24Fall/os/read01/images/Pasted image 20241019183257.png",
-    "course/24Fall/os/read01/images/Pasted image 20241019173652.png",
-    "未命名 1.md",
-    "code/Algorithm/前缀和与拆分/1.Prefix前缀和【模板】.md",
-    "course/24Fall/os/部分翻译内容.md",
+    "course/24Fall/os/reading/read01/images/Pasted image 20241019173231.png",
+    "course/24Fall/os/reading/read01/images/Pasted image 20241019185028.png",
+    "course/24Fall/os/reading/read01/images/Pasted image 20241019183257.png",
+    "course/24Fall/os/reading/read01/images/Pasted image 20241019173652.png",
     "course/24Fall/os/images/Pasted image 20241019164906.png",
     "course/24Fall/os/images/Pasted image 20241019164800.png",
     "course/24Fall/os/images/Pasted image 20241019164539.png",
-    "self/compe/未命名.md",
-    "code/Coding/c++/sscanf_s和sprintf_s函数的使用.md",
-    "course/24Fall/computerNetwork/Ex2.md",
-    "course/24Fall/computerNetwork/Experiment 1.md",
-    "course/24Fall/intelliSoftwareEngineering/present.md",
     "pic/1.png",
     "course/24Fall/Software architecture and middleware/homework_1/类图.svg",
     "Excalidraw/未命名.canvas",

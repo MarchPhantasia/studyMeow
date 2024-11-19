@@ -3,8 +3,8 @@
   "theme": "moonstone",
   "accentColor": "",
   "interfaceFontFamily": "Monaco,霞鹜文楷等宽,霞鹜文楷,苹方-简",
-  "textFontFamily": "Monaco,霞鹜文楷等宽,霞鹜文楷,苹方-简",
-  "monospaceFontFamily": "Monaco,霞鹜文楷",
+  "textFontFamily": "OPPO Sans,Monaco,霞鹜文楷等宽,霞鹜文楷,苹方-简",
+  "monospaceFontFamily": "OPPO Sans,Monaco,霞鹜文楷",
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],

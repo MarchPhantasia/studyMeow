@@ -24,11 +24,14 @@
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
-  "anuppuccin-theme-settings@@anp-code-bg-color@@light": "#DDE4EC",
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
   "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
   "anuppuccin-theme-settings@@anp-toggle-preview": true,
-  "anuppuccin-theme-settings@@anp-list-toggle": true
+  "anuppuccin-theme-settings@@anp-list-toggle": true,
+  "anuppuccin-theme-settings@@anp-code-bg-color@@dark": "#000000",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "none",
+  "Blue-Topaz-Codebox-Highlight@@code-comment@@dark": "#B8F6D1",
+  "Blue-Topaz-Codebox-Highlight@@code-comment@@light": "#06AF14"
 }

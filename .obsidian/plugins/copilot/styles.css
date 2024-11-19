@@ -11,11 +11,27 @@ If your plugin does not need CSS, delete this file.
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 1rem;
+  padding: 0 25px;
 }
 
 .button-container .mod-cta {
   flex: 1; /* Make buttons take equal width */
-  margin: 25px; /* Adds some space between buttons */
+  margin: 25px 0;
+}
+
+/* button mobile style */
+@media screen and (max-width: 768px) {
+  .button-container {
+    gap: 0.5rem;
+    padding: 0 12px;
+  }
+
+  .button-container .mod-cta {
+    margin: 12px 0;
+    font-size: 0.9rem;
+    padding: 6px 12px;
+  }
 }
 
 .warning-message {
@@ -49,8 +65,8 @@ If your plugin does not need CSS, delete this file.
 }
 
 .copilot-setting-item-control::placeholder {
-  color: gray; /* Set the color you want for the placeholder text */
-  opacity: 0.5; /* Adjust for lighter appearance */
+  color: gray;
+  opacity: 0.5;
 }
 
 .copilot-setting-item-control[type="range"] {
@@ -62,7 +78,7 @@ If your plugin does not need CSS, delete this file.
   flex-direction: column;
   width: 100%;
   height: 100%;
-  overflow: hidden; /* Fix overflow and can't scroll up */
+  overflow: hidden;
 }
 
 .bottom-container {
@@ -77,34 +93,27 @@ If your plugin does not need CSS, delete this file.
 
 .chat-icons-container {
   display: flex;
-  justify-content: center;
   align-items: center;
   width: 100%;
-  padding: 8px 8px 0;
-  order: 1;
-  gap: 8px;
+  padding: 0 0 4px;
+  gap: 4px;
   flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .icon-scaler {
-  transform: scale(1.6);
+  transform: scale(0.7);
 }
 
 .tooltip-text {
-  visibility: hidden;
-  opacity: 0;
-  background-color: #333;
-  color: #fff;
+  max-width: 400px;
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
   text-align: center;
   border-radius: 5px;
   padding: 5px;
-  position: absolute;
-  z-index: 1;
-  bottom: 100%;
-  left: 50%;
-  margin-bottom: 4px;
-  transform: translateX(-50%);
-  transition: opacity 0.3s;
+  font-size: var(--font-ui-smaller);
+  white-space: nowrap;
 }
 
 .select-wrapper {
@@ -112,62 +121,181 @@ If your plugin does not need CSS, delete this file.
   display: inline-block;
 }
 
-.select-wrapper:hover .tooltip-text,
-.chat-icon-button.clickable-icon:hover .tooltip-text {
-  visibility: visible !important;
-  opacity: 1 !important;
+.chat-icon-button.clickable-icon,
+.chat-icon-selection,
+.model-select-button,
+.submit-button,
+.chain-select-button {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  padding: 0;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  color: var(--text-muted);
+  font-size: 10px;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: opacity 0.2s ease;
 }
 
-.chat-icon-button.clickable-icon {
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
-  width: 22px !important;
-  height: 22px !important;
-  cursor: pointer !important;
-  position: relative !important;
+.chat-icon-button.clickable-icon:hover,
+.chat-icon-selection:hover,
+.model-select-button:hover,
+.submit-button:hover,
+.chain-select-button:hover {
+  background: none !important;
+  color: var(--text-normal);
+  opacity: 1;
 }
 
-.chat-icon-selection {
-  color: var(--inline-title-color);
+@keyframes flash {
+  0%,
+  100% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.submit-button.cancel {
+  opacity: 0.5;
+  padding: 4px;
+  border-radius: 4px;
+  animation: flash 2s infinite;
+}
+
+.submit-button.cancel:hover {
+  opacity: 1;
 }
 
 .chat-input-container {
   display: flex;
-  padding: 8px;
-  box-sizing: border-box;
-  flex-grow: 1;
+  flex-direction: column;
   width: 100%;
-  order: 2;
-  position: relative;
+  background: var(--background-secondary-alt);
+  border-radius: 4px;
+  padding: 4px;
+  gap: 2px;
 }
 
-.chat-input-container textarea {
+.chat-input-textarea {
   width: 100%;
-  margin-right: 0;
-  margin-bottom: 8px;
+  min-height: 44px;
   resize: none;
-  overflow: auto;
-  min-height: 60px;
-  max-height: 200px;
-  box-sizing: border-box;
-  border: 1px solid gray;
-  border-radius: 10px;
-  padding: 15px 60px 15px 15px;
+  padding: 2px 12px;
+  background: var(--background-secondary-alt);
+  border: none;
+  border-radius: 4px;
+  color: var(--text-normal);
+  font-size: 13px;
 }
 
-.chat-input-container textarea::placeholder {
-  color: var(--inline-title-color);
+.chat-input-textarea::placeholder {
+  color: var(--text-muted);
   opacity: 0.5;
 }
 
-.chat-input-container button {
-  position: absolute;
-  right: 22px;
-  bottom: 31px;
-  padding: 8px;
-  margin: 0;
-  z-index: 1;
+.chat-input-textarea:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.chat-input-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 4px;
+}
+
+.chat-input-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.model-select-content {
+  min-width: 120px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  padding: 4px;
+  font-size: 10px;
+  transform: translateX(30px);
+  z-index: 1000;
+}
+
+.model-select-content [role="menuitem"] {
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 2px;
+  font-size: 10px;
+  color: var(--text-normal);
+  margin: 2px 0;
+}
+
+.model-select-content [role="menuitem"]:hover {
+  background: var(--background-modifier-hover);
+}
+
+.submit-button svg,
+.model-select-button svg,
+.chain-select-button svg {
+  width: 10px;
+  height: 10px;
+}
+
+.chain-select-button:hover {
+  opacity: 1;
+  background: var(--background-modifier-hover);
+}
+
+.chain-select-content {
+  min-width: 120px;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  padding: 4px;
+  font-size: 10px;
+  transform: translateX(-5px);
+  z-index: 1000;
+}
+
+.chain-select-content [role="menuitem"] {
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 2px;
+  font-size: 10px;
+  color: var(--text-normal);
+  margin: 2px 0;
+}
+
+.chain-select-content [role="menuitem"]:hover {
+  background: var(--background-modifier-hover);
+}
+
+/* Make the chevron icon smaller */
+.chain-select-button svg {
+  width: 12px;
+  height: 12px;
+}
+
+.chain-select-button span {
+  opacity: 1;
+}
+
+/* Button and Tooltip Container */
+.chat-icon-button {
+  position: relative;
+}
+
+.submit-button svg,
+.model-select-button svg,
+.chain-select-button svg {
+  width: 12px;
+  height: 12px;
 }
 
 .chat-messages {
@@ -310,19 +438,20 @@ If your plugin does not need CSS, delete this file.
   display: flex;
   gap: 4px;
   align-items: center;
-  height: 24px;
+  height: 20px;
   margin-left: auto;
 }
 
 .chat-message-buttons button {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   padding: 0;
   font-size: 12px;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: transparent;
+  opacity: 0.5;
   border: none;
   cursor: pointer;
   color: var(--text-muted);
@@ -331,11 +460,12 @@ If your plugin does not need CSS, delete this file.
 
 .chat-message-buttons button:hover {
   color: var(--text-normal);
+  opacity: 1;
 }
 
 .chat-message-buttons button svg {
-  width: 16px;
-  height: 16px;
+  width: 14px;
+  height: 14px;
 }
 
 .user-message {
@@ -419,12 +549,21 @@ If your plugin does not need CSS, delete this file.
   width: 8%;
 }
 
+/* Add specific styles for toggle cells */
+.model-settings-table td .copilot-setting-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+}
+
 .model-settings-table .switch {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100%;
-  margin-top: -1.2em;
+  margin: 0;
 }
 
 .add-custom-model {
@@ -504,4 +643,232 @@ If your plugin does not need CSS, delete this file.
   align-self: flex-end;
   margin-top: 16px;
   margin-left: auto;
+}
+
+.similar-notes-modal-container {
+  width: 80vw;
+  height: 80vh;
+}
+
+.similar-notes-modal {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.similar-notes-container {
+  max-height: calc(80vh - 100px);
+  overflow-y: auto;
+  padding: 10px;
+}
+
+.similar-note-item {
+  margin-bottom: 10px;
+}
+
+.similar-note-title {
+  cursor: pointer;
+  color: var(--text-accent);
+}
+
+.similar-note-item details > summary {
+  list-style: none;
+}
+
+.similar-note-item details > summary::before {
+  content: "▶";
+  display: inline-block;
+  width: 20px;
+  transition: transform 0.3s;
+}
+
+.similar-note-item details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.similar-note-item details > p {
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+/* control pc and mobile view */
+.desktop-only {
+  display: table;
+}
+
+.mobile-only {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .desktop-only {
+    display: none;
+  }
+
+  .mobile-only {
+    display: block;
+  }
+
+  .model-cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 8px;
+  }
+
+  .model-card {
+    background: var(--background-primary-alt);
+    border-radius: 8px;
+    padding: 0 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .model-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--background-modifier-border);
+  }
+
+  .model-card-header h3 {
+    margin: 0;
+    font-size: 1.1em;
+    color: var(--text-normal);
+  }
+
+  .model-provider {
+    font-size: 0.9em;
+    color: var(--text-muted);
+    padding: 2px 0px;
+    background: var(--background-secondary);
+    border-radius: 4px;
+    width: fit-content;
+    align-self: flex-start;
+  }
+
+  .model-card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .model-card-controls {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 0;
+  }
+
+  .model-card-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .model-card-item span {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    white-space: nowrap;
+  }
+
+  .model-card-item .switch {
+    margin: 0;
+  }
+
+  .model-select-content,
+  .chain-select-content {
+    background: var(--background-primary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .model-select-content [role="menuitem"],
+  .chain-select-content [role="menuitem"] {
+    background: var(--background-primary);
+    color: var(--text-normal);
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+
+  .model-select-content [role="menuitem"]:hover,
+  .chain-select-content [role="menuitem"]:hover {
+    background: var(--background-modifier-hover);
+  }
+}
+
+.model-card {
+  background: var(--background-primary-alt);
+  border-radius: 8px;
+  padding: 0 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  position: relative;
+  border-left: 4px solid transparent;
+  /*transition: border-color 0.2s ease;*/
+}
+
+.model-card.selected {
+  border-left-color: var(--interactive-accent);
+}
+
+.model-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-bottom: 8px;
+  cursor: pointer;
+}
+
+.model-card-header-content {
+  display: flex;
+  align-items: baseline;
+  flex: 1;
+  margin-right: 12px;
+}
+
+.model-card-title {
+}
+
+.model-provider-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding-left: 10px;
+  width: 100%;
+}
+
+.model-provider {
+  font-size: 0.85em;
+  color: var(--text-muted);
+  padding: 2px 0px;
+  background: var(--background-secondary);
+  border-radius: 4px;
+  width: fit-content;
+  align-self: flex-start;
+}
+
+/* delete icon*/
+.model-delete-icon {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: var(--text-muted);
+  opacity: 0.6;
+  transition: all 0.2s ease;
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.model-delete-icon:hover {
+  color: var(--text-error);
+  opacity: 1;
 }

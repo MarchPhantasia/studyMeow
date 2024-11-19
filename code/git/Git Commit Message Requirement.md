@@ -77,7 +77,7 @@
 
 - 第一步：在工程跟目录下的package.json文件加入如下代码所示的scripts和dependencies内容，版本号为3位版本号。
 
-```
+``` json
   {
     "name": "application-name",
     "version": "0.1.0",
@@ -97,7 +97,7 @@
 
 - 第二步：在工程根目录新建.vcmrc文件，并且文件内容为
 
-```
+``` json
 {
   "helpMessage": "\nPlease fix your commit message (and consider using https://www.npmjs.com/package/commitizen)\n",
   "types": [
@@ -120,13 +120,13 @@
 
 - 第一步：创建一个feature分支或者bugfix分支
 
-```
+``` sh
   $ git checkout -b feature_infinite_load    # 切换到一个feature分支或者bug fix分支
 ```
 
 - 第二步：将代码提交到本地Git仓库，并填写符合要求的Commit message格式
 
-```
+``` sh
   $ git add .
   $ git commit                               # 此处不要加任何参数，比如-m
 ```
@@ -137,13 +137,13 @@
 
 - 第三步：将代码同步到远程Git仓库
 
-```
+``` sh
   $ git push origin feature_infinite_load    # 将修改发布到远程仓库
 ```
 
 - 第四步：自动生成changelog，并打Tag发布
 
-```
+``` shell
   $ tnpm run changelog                    # 使用npm script中的changlog命令直接从git元数据生成日志。
   $ git tag v0.1.0
   $ git push origin v0.1.0

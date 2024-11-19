@@ -1,28 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "report",
-      "path": "course/24Fall/os/read03/report.md"
+      "basename": "1. 调试分析 Linux 0.00 引导程序",
+      "path": "course/24Fall/os/lab/1. 调试分析 Linux 0.00 引导程序.md"
+    },
+    {
+      "basename": "Git Commit Message Requirement",
+      "path": "code/git/Git Commit Message Requirement.md"
     },
     {
       "basename": "readme",
       "path": "course/24Fall/os/readme.md"
     },
     {
-      "basename": "report",
-      "path": "course/24Fall/os/read02/report.md"
+      "basename": "plainuml探索指南",
+      "path": "self/projects/Intelli MBSE/reference/plainuml探索指南.md"
+    },
+    {
+      "basename": "me",
+      "path": "self/me.md"
+    },
+    {
+      "basename": "git加速镜像",
+      "path": "code/git/git加速镜像.md"
+    },
+    {
+      "basename": "Git提交",
+      "path": "code/git/Git提交.md"
+    },
+    {
+      "basename": "ubuntu 速查",
+      "path": "code/linux/ubuntu 速查.md"
+    },
+    {
+      "basename": "SSH速速",
+      "path": "misc/远控/SSH速速.md"
+    },
+    {
+      "basename": "查询本机ipv6",
+      "path": "misc/远控/查询本机ipv6.md"
+    },
+    {
+      "basename": "4. 任务管理",
+      "path": "course/24Fall/os/reading/read04/4. 任务管理.md"
+    },
+    {
+      "basename": "present",
+      "path": "course/24Fall/intelliSoftwareEngineering/present.md"
+    },
+    {
+      "basename": "presentation",
+      "path": "course/24Fall/intelliSoftwareEngineering/presentation.md"
+    },
+    {
+      "basename": "其他同学的论文分享注重点",
+      "path": "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md"
+    },
+    {
+      "basename": "3. 中断和异常处理",
+      "path": "course/24Fall/os/reading/read03/3. 中断和异常处理.md"
+    },
+    {
+      "basename": "2. 保护模式内存管理",
+      "path": "course/24Fall/os/reading/read02/2. 保护模式内存管理.md"
+    },
+    {
+      "basename": "1. x86 系统架构概览",
+      "path": "course/24Fall/os/reading/read01/1. x86 系统架构概览.md"
     },
     {
       "basename": "蔡志宇-2022112831-读书笔记2",
-      "path": "course/24Fall/os/read02/蔡志宇-2022112831-读书笔记2.pdf"
+      "path": "course/24Fall/os/reading/read02/蔡志宇-2022112831-读书笔记2.pdf"
     },
     {
       "basename": "reports",
-      "path": "course/24Fall/os/read01/reports.pdf"
-    },
-    {
-      "basename": "reports",
-      "path": "course/24Fall/os/read01/reports.md"
+      "path": "course/24Fall/os/reading/read01/reports.pdf"
     },
     {
       "basename": "2024-10-22",
@@ -41,12 +93,8 @@
       "path": "self/projects/Intelli MBSE/save/OSLC.md"
     },
     {
-      "basename": "Git提交",
-      "path": "code/git/Git提交.md"
-    },
-    {
       "basename": "Pasted image 20241019173231",
-      "path": "course/24Fall/os/read01/images/Pasted image 20241019173231.png"
+      "path": "course/24Fall/os/reading/read01/images/Pasted image 20241019173231.png"
     },
     {
       "basename": "EX2",
@@ -61,14 +109,6 @@
       "path": "code/docker/docker bridge模式.md"
     },
     {
-      "basename": "git加速镜像",
-      "path": "code/git/git加速镜像.md"
-    },
-    {
-      "basename": "Git Commit Message Requirement",
-      "path": "code/git/Git Commit Message Requirement.md"
-    },
-    {
       "basename": "2024-10-16",
       "path": "self/projects/Intelli MBSE/meetings/2024-10-16.md"
     },
@@ -78,19 +118,15 @@
     },
     {
       "basename": "Pasted image 20241019185028",
-      "path": "course/24Fall/os/read01/images/Pasted image 20241019185028.png"
+      "path": "course/24Fall/os/reading/read01/images/Pasted image 20241019185028.png"
     },
     {
       "basename": "Pasted image 20241019183257",
-      "path": "course/24Fall/os/read01/images/Pasted image 20241019183257.png"
+      "path": "course/24Fall/os/reading/read01/images/Pasted image 20241019183257.png"
     },
     {
       "basename": "Pasted image 20241019173652",
-      "path": "course/24Fall/os/read01/images/Pasted image 20241019173652.png"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
+      "path": "course/24Fall/os/reading/read01/images/Pasted image 20241019173652.png"
     },
     {
       "basename": "1.Prefix前缀和【模板】",
@@ -117,24 +153,12 @@
       "path": "course/24Fall/computerNetwork/Experiment 1.md"
     },
     {
-      "basename": "present",
-      "path": "course/24Fall/intelliSoftwareEngineering/present.md"
-    },
-    {
-      "basename": "presentation",
-      "path": "course/24Fall/intelliSoftwareEngineering/presentation.md"
-    },
-    {
       "basename": "Paper2",
       "path": "self/compe/信安作品赛/Paper2.md"
     },
     {
       "basename": "Paper1",
       "path": "self/compe/信安作品赛/Paper1.md"
-    },
-    {
-      "basename": "其他同学的论文分享注重点",
-      "path": "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md"
     },
     {
       "basename": "使用 ollama 框架部署 llama 模型",
@@ -147,10 +171,6 @@
     {
       "basename": "black formatter plugin",
       "path": "tool/python/black formatter plugin.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     },
     {
       "basename": "EX1",
@@ -169,37 +189,15 @@
       "path": "misc/windows/查看连接过的wifi密码.md"
     },
     {
-      "basename": "查询本机ipv6",
-      "path": "misc/远控/查询本机ipv6.md"
-    },
-    {
       "basename": "路由器代理",
       "path": "misc/路由器代理.md"
     },
     {
       "basename": "浏览器搜索magic",
       "path": "misc/浏览器搜索magic.md"
-    },
-    {
-      "basename": "NeteanseMusicAPI探索",
-      "path": "misc/NeteanseMusicAPI探索.md"
-    },
-    {
-      "basename": "问题",
-      "path": "Past/大连实训/问题.md"
-    },
-    {
-      "basename": "整体业务流程绘图",
-      "path": "Past/大连实训/整体业务流程绘图.md"
-    },
-    {
-      "basename": "ftp",
-      "path": "Past/大连实训/ftp.md"
-    },
-    {
-      "basename": "http状态码设置",
-      "path": "Past/大连实训/http状态码设置.md"
     }
   ],
-  "omittedPaths": []
+  "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false
 }
