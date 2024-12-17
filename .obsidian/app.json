@@ -9,5 +9,7 @@
   },
   "readableLineLength": false,
   "attachmentFolderPath": "./images",
-  "showRibbon": true
+  "showRibbon": false,
+  "showInlineTitle": true,
+  "focusNewTab": true
 }

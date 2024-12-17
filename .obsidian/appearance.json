@@ -1,12 +1,14 @@
 {
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Border",
   "theme": "moonstone",
   "accentColor": "",
-  "interfaceFontFamily": "Monaco,霞鹜文楷等宽,霞鹜文楷,苹方-简",
-  "textFontFamily": "OPPO Sans,Monaco,霞鹜文楷等宽,霞鹜文楷,苹方-简",
-  "monospaceFontFamily": "OPPO Sans,Monaco,霞鹜文楷",
+  "interfaceFontFamily": "JetBrains Mono,OPPO Sans,Monaco,霞鹜文楷等宽,霞鹜文楷",
+  "textFontFamily": "JetBrains Mono,OPPO Sans,Monaco,霞鹜文楷等宽,霞鹜文楷,苹方-简",
+  "monospaceFontFamily": "JetBrains Mono,OPPO Sans,Monaco,霞鹜文楷",
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "showViewHeader": true,
+  "nativeMenus": false
 }

@@ -12,7 +12,6 @@
   "obsidian-enhancing-export",
   "css-snippets",
   "omnisearch",
-  "keyboard-analyzer",
   "obsidian-hover-editor",
   "cmdr",
   "settings-search",
@@ -21,8 +20,8 @@
   "highlightr-plugin",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
-  "obsidian-excalidraw-plugin",
   "better-export-pdf",
   "obsidian-git",
-  "calendar"
+  "code-styler",
+  "copilot"
 ]

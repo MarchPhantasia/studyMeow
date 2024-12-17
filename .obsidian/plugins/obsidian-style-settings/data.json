@@ -33,5 +33,7 @@
   "anuppuccin-theme-settings@@anp-code-bg-color@@dark": "#000000",
   "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "none",
   "Blue-Topaz-Codebox-Highlight@@code-comment@@dark": "#B8F6D1",
-  "Blue-Topaz-Codebox-Highlight@@code-comment@@light": "#06AF14"
+  "Blue-Topaz-Codebox-Highlight@@code-comment@@light": "#06AF14",
+  "Components@@file-icon-remove": false,
+  "Components@@colorful-folder": true
 }

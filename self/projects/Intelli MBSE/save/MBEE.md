@@ -1,0 +1,3 @@
+- 快捷部署[https://github.com/Open-MBEE/exec-mmsri][https://github.com/Open-MBEE/exec-mmsri]
+- MMS（server）[https://github.com/Open-MBEE/exec-mms?tab=readme-ov-file][https://github.com/Open-MBEE/exec-mms?tab=readme-ov-file]
+- Frontend[https://github.com/Open-MBEE/exec-ve?tab=readme-ov-file][https://github.com/Open-MBEE/exec-ve?tab=readme-ov-file]

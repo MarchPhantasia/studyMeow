@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "97d18271bfdcc500",
+        "id": "2d50a2b09d7be06c",
         "type": "tabs",
         "children": [
           {
-            "id": "8c5c50e300e17833",
+            "id": "5f3480d31fcf3737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course/24Fall/os/lab/1. 调试分析 Linux 0.00 引导程序.md",
+                "file": "夢.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 调试分析 Linux 0.00 引导程序"
-            }
-          },
-          {
-            "id": "57bb28962df47a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code/git/Git Commit Message Requirement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Commit Message Requirement"
+              "title": "夢"
             }
           }
         ]
@@ -47,7 +33,7 @@
       {
         "id": "c31c9706beca0e8c",
         "type": "tabs",
-        "dimension": 70.1492537313433,
+        "dimension": 64.2023346303502,
         "children": [
           {
             "id": "2beafada31bdb266",
@@ -93,7 +79,7 @@
       {
         "id": "0b2c042753e75124",
         "type": "tabs",
-        "dimension": 29.850746268656714,
+        "dimension": 35.797665369649806,
         "children": [
           {
             "id": "cead7453e947dd05",
@@ -109,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.00152587890625
+    "width": 242.0110321044922
   },
   "right": {
     "id": "a6298101014c0bdb",
@@ -166,28 +152,6 @@
             }
           },
           {
-            "id": "b10c93ec6eb8b7cc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "d19501b3ec94fe0a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "course/24Fall/os/001_read01/reports.md"
-              },
-              "icon": "lucide-list",
-              "title": "reports 的大纲"
-            }
-          },
-          {
             "id": "899ee1d3047e91f6",
             "type": "leaf",
             "state": {
@@ -208,21 +172,33 @@
             }
           },
           {
-            "id": "77a9140a2747e7ac",
+            "id": "d19501b3ec94fe0a",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "outline",
+              "state": {
+                "file": "夢.md"
+              },
+              "icon": "lucide-list",
+              "title": "夢 的大纲"
+            }
+          },
+          {
+            "id": "1108f8867abac4b6",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 384
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,47 +213,48 @@
       "obsidian-kanban:创建新看板": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "98311577e0cae73a",
   "lastOpenFiles": [
-    "code/git/Git Commit Message Requirement.md",
-    "course/24Fall/os/lab/1. 调试分析 Linux 0.00 引导程序.md",
-    "course/24Fall/os/readme.md",
-    "course/24Fall/os/lab",
-    "self/projects/Intelli MBSE/reference/plainuml探索指南.md",
-    "course/24Fall/os/reading",
-    "2024-11-01.md",
-    "未命名 1.md",
-    "未命名.md",
+    "readme.md",
+    "temp.md",
+    "course/24Fall/os/lab/5.进程运行轨迹的跟踪与统计.md",
+    "self/prompt/Web Generator ( Prompt Teaching).md",
+    "self/prompt/AI Prompt Try.md",
+    "Past/国赛/ver5.md",
+    "Clippings/002. Linux0.00 head.s注释 - 姜大伟 - 博客园.md",
+    "course/24Fall/os/lab/4.系统调用.md",
+    "夢.md",
     "self/me.md",
-    "self/projects/Intelli MBSE/未命名.md",
-    "self/projects/Intelli MBSE/reference",
+    "self/prompt",
+    "code/Coding/React/Notes/7.useEffect的使用.md",
+    "self/projects/Intelli MBSE/meetings/2024-12-07.md",
+    "course/24Fall/os/lab/3.操作系统的引导.md",
+    "self/projects/Intelli MBSE/save/技术报告idea.md",
+    "[.md",
+    "course/24Fall/os/bochs介绍.md",
+    "self/projects/Intelli MBSE/knowledge/需求追溯技术报告.md",
+    "self/projects/Intelli MBSE/meetings/2024-11-25.md",
+    "course/24Fall/computerNetwork/review/Ch 1.md",
+    "course/24Fall/computerNetwork/ex/Ex2.md",
+    "course/24Fall/computerNetwork/review",
+    "course/24Fall/computerNetwork/ex",
+    "course/24Fall/computerNetwork/ex/Experiment 1.md",
     "code/git/git加速镜像.md",
-    "code/git/Git提交.md",
-    "code/linux/ubuntu 速查.md",
-    "misc/远控/SSH速速.md",
-    "misc/远控/查询本机ipv6.md",
-    "course/24Fall/os/reading/read04/4. 任务管理.md",
-    "course/24Fall/os/2022112831-蔡志宇-读书笔记04.zip",
-    "course/24Fall/os/2022112831-蔡志宇-读书笔记04/4. 任务管理.md",
-    "course/24Fall/os/2022112831-蔡志宇-读书笔记04/2022112831-蔡志宇-读书笔记04.pdf",
-    "course/24Fall/os/2022112831-蔡志宇-读书笔记04",
-    "course/24Fall/os/read04 - 副本/4. 任务管理.md",
-    "course/24Fall/os/read04 - 副本/2022112831-蔡志宇-读书笔记04.pdf",
-    "course/24Fall/os/read04 - 副本",
-    "course/24Fall/os/reading/read04/2022112831-蔡志宇-读书笔记04.pdf",
-    "course/24Fall/os/read04/4. 任务管理.pdf",
-    "course/24Fall/intelliSoftwareEngineering/present.md",
-    "course/24Fall/intelliSoftwareEngineering/presentation.md",
-    "course/24Fall/intelliSoftwareEngineering/其他同学的论文分享注重点.md",
-    "course/24Fall/os/reading/read03/3. 中断和异常处理.md",
-    "course/24Fall/os/reading/read02/2. 保护模式内存管理.md",
-    "course/24Fall/os/reading/read01/1. x86 系统架构概览.md",
-    "self/projects/Intelli MBSE/meetings/2024-10-22.md",
-    "misc/计网/iptables.md",
-    "code/git/git 一些命令.md",
+    "course/24Fall/os/lab/2. 调试分析 Linux 0.00 多任务切换.md",
+    "course/24Fall/os/lab/images/黄诗晨-034-lab01.zip",
+    "course/24Fall/os/lab/images",
+    "course/24Fall/os/lab/1. 调试分析 Linux 0.00 引导程序.md",
+    "misc/obsidian/标注.md",
+    "self/fun/b站视频旋转.md",
+    "Clippings",
+    "course/24Fall/os/reading/read01/reports.pdf",
+    "self/projects/Intelli MBSE/knowledge/knowledge.zip",
+    "self/projects/Intelli MBSE/未命名",
+    "course/24Fall/os/lab",
     "course/24Fall/os/reading/read01/images/Pasted image 20241019173231.png",
     "course/24Fall/os/reading/read01/images/Pasted image 20241019185028.png",
     "course/24Fall/os/reading/read01/images/Pasted image 20241019183257.png",

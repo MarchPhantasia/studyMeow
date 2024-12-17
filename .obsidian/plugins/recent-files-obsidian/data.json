@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "夢",
+      "path": "夢.md"
+    },
+    {
+      "basename": "readme",
+      "path": "readme.md"
+    },
+    {
+      "basename": "temp",
+      "path": "temp.md"
+    },
+    {
+      "basename": "5.进程运行轨迹的跟踪与统计",
+      "path": "course/24Fall/os/lab/5.进程运行轨迹的跟踪与统计.md"
+    },
+    {
+      "basename": "Web Generator ( Prompt Teaching)",
+      "path": "self/prompt/Web Generator ( Prompt Teaching).md"
+    },
+    {
+      "basename": "AI Prompt Try",
+      "path": "self/prompt/AI Prompt Try.md"
+    },
+    {
+      "basename": "MBEE",
+      "path": "self/projects/Intelli MBSE/save/MBEE.md"
+    },
+    {
+      "basename": "PlantUMLPrompt",
+      "path": "self/projects/Intelli MBSE/knowledge/PlantUMLPrompt.md"
+    },
+    {
+      "basename": "PlantUMLtranslation",
+      "path": "self/projects/Intelli MBSE/knowledge/PlantUMLtranslation.md"
+    },
+    {
+      "basename": "plantuml save",
+      "path": "self/projects/Intelli MBSE/knowledge/plantuml save.md"
+    },
+    {
+      "basename": "项目内容",
+      "path": "self/projects/Intelli MBSE/knowledge/项目内容.md"
+    },
+    {
+      "basename": "领域系统模型",
+      "path": "self/projects/Intelli MBSE/knowledge/领域系统模型.md"
+    },
+    {
+      "basename": "plainuml探索指南",
+      "path": "self/projects/Intelli MBSE/reference/plainuml探索指南.md"
+    },
+    {
       "basename": "1. 调试分析 Linux 0.00 引导程序",
       "path": "course/24Fall/os/lab/1. 调试分析 Linux 0.00 引导程序.md"
     },
@@ -11,10 +63,6 @@
     {
       "basename": "readme",
       "path": "course/24Fall/os/readme.md"
-    },
-    {
-      "basename": "plainuml探索指南",
-      "path": "self/projects/Intelli MBSE/reference/plainuml探索指南.md"
     },
     {
       "basename": "me",
@@ -151,50 +199,6 @@
     {
       "basename": "Experiment 1",
       "path": "course/24Fall/computerNetwork/Experiment 1.md"
-    },
-    {
-      "basename": "Paper2",
-      "path": "self/compe/信安作品赛/Paper2.md"
-    },
-    {
-      "basename": "Paper1",
-      "path": "self/compe/信安作品赛/Paper1.md"
-    },
-    {
-      "basename": "使用 ollama 框架部署 llama 模型",
-      "path": "misc/LLM/使用 ollama 框架部署 llama 模型.md"
-    },
-    {
-      "basename": "2024-10-9",
-      "path": "self/projects/Intelli MBSE/meetings/2024-10-9.md"
-    },
-    {
-      "basename": "black formatter plugin",
-      "path": "tool/python/black formatter plugin.md"
-    },
-    {
-      "basename": "EX1",
-      "path": "course/24Fall/Software architecture and middleware/EX1.md"
-    },
-    {
-      "basename": "に和へ在表示行为上的区别",
-      "path": "language/日本語/に和へ在表示行为上的区别.md"
-    },
-    {
-      "basename": "表示存在连接词は、に、が",
-      "path": "language/日本語/表示存在连接词は、に、が.md"
-    },
-    {
-      "basename": "查看连接过的wifi密码",
-      "path": "misc/windows/查看连接过的wifi密码.md"
-    },
-    {
-      "basename": "路由器代理",
-      "path": "misc/路由器代理.md"
-    },
-    {
-      "basename": "浏览器搜索magic",
-      "path": "misc/浏览器搜索magic.md"
     }
   ],
   "omittedPaths": [],
